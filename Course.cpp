@@ -23,8 +23,6 @@ void Course::affichePseudo(){
     std::cout << _PseudoJoueur <<std::endl;
 }
 
-void Course::addScore(){}
-
 void Course::afficheScore(){
     int course[3]
     course[0] = temps1;
@@ -33,7 +31,7 @@ void Course::afficheScore(){
 }
 
 void Course::classement(){
-    
+
 }
 
 void Course::meilleurScoreJoueur(){
